@@ -463,6 +463,12 @@
     <summary>Sites - Style & Component Libraries</summary>
     <ol>
       <li>
+        <a href="https://tailwindcss.com/" target="blank">TailwindCSS</a> - A utility-first css framework that's a pleasure to use.
+      </li>
+      <li>
+        <a href="https://tailwindui.com/" target="blank">TailwindUI</a> - Tailwind's component library.
+      </li>
+      <li>
         <a href="https://getbootstrap.com/" target="blank">Bootstrap</a> - Bootstrap is an open source toolkit for
         developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables
         and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
