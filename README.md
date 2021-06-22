@@ -209,6 +209,9 @@
       <li>
         <a href="https://hackr.io/" target="blank">Hackr.io</a> - We at Hackr.io aggregate courses from many providers to make it easy to find the best courses on almost any subject, wherever they exist on the web.
       </li>
+      <li>
+        <a href="https://www.codementor.io/experts" target="blank">Codementor</a> - Get 1-on-1 expert help from senior developers to improve your coding skills or get help with your ongoing projects.
+      </li>
     </ol>
   </details>
   <details open>
